@@ -38,9 +38,9 @@
 
 ## Connect with me:
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pratik-kamble-7b0798211/)
+[Live Portfolio](https://pratik-kamble.vercel.app/)
 
-<!-- [![instagram](https://skillicons.dev/icons?i=instagram)](https://jsmastery.pro) -->
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pratik-kamble-7b0798211/)
 
 <!-- [![twitter](https://skillicons.dev/icons?i=twitter)](https://jsmastery.pro) -->
 
