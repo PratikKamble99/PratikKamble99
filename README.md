@@ -1,6 +1,6 @@
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Pratik, Software developer at <b>Ciklum, India</b>, currently living in <img src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" width="15"/> <b>Pune, India</b>. </p>
+<p>Welcome to my profile! </br> I'm Pratik, Software developer at <b>Dynamisch INC, India</b>, currently living in <img src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" width="15"/> <b>Pune, India</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -34,7 +34,7 @@
 ## 🌟 Most Used Weapons
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=PratikKamble99&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=PratikKamble99&theme=react-dark)
+<!-- ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=PratikKamble99&theme=react-dark) -->
 
 ## Connect with me:
 
